@@ -33,6 +33,7 @@ Class 1: Course Intro + Installation:
 * 	Think like a [computer scientist](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c)
 * 	Tons of additional resources [here](https://github.com/betamore/datascienceF16/blob/master/notes/additional_resources.md)
 * 	Intro to [course project](https://github.com/betamore/datascienceF16/blob/master/notes/course_project.md)
+* 	First commit example!!!
 
 
 
