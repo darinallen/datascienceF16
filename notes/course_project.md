@@ -43,9 +43,9 @@ If it's not possible or practical to include your entire dataset, you should lin
 ## Milestones
 
 
-### (TBD) Three potential Questions
+### (9/26) Three potential Questions
 
-What are three potential questions you would like to try and answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose these topics? Upload this as a **MARKDOWN** file in your sfdat26_work repo. Keep in mind these might not be your final questions, but I want you to start thinking as soon as possible. If you know exactly what you want to do and don't want to icnlude two other ideas, **please still try to think of two more ideas (just in case).**
+What are three potential questions you would like to try and answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose these topics? Upload this as a **MARKDOWN** file. Keep in mind these might not be your final questions, but I want you to start thinking as soon as possible. If you know exactly what you want to do and don't want to icnlude two other ideas, **please still try to think of two more ideas (just in case).**
 
 Example:
 
@@ -57,7 +57,7 @@ Example:
 
 ### (TBD) First Draft
 
-Zip up all files relevant to your project, and upload to sfdat26_work repo. Your peers and instructors will provide feedback.
+Zip up all files relevant to your project. Your peers and instructors will provide feedback.
 
 At a minimum, you should include:
 
